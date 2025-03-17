@@ -1,0 +1,23 @@
+{
+  "10-3-2025": {
+    "description": "K Obrazku",
+    "distance": 2.29,
+    "shoes": "barefoot",
+    "avgHr": 132,
+    "details": ""
+  },
+  "12-3-2025": {
+    "description": "Kolecko pod rozhlednou",
+    "distance": 4.62,
+    "shoes": "barefoot",
+    "avgHr": 141,
+    "details": ""
+  },
+  "17-3-2025": {
+    "description": "Rano k Obrazku",
+    "distance": 4.74,
+    "shoes": "barefoot",
+    "avgHr": 132,
+    "details": ""
+  }
+}

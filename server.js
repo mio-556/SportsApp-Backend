@@ -1,14 +1,12 @@
 // Example usingn Express.js
-const express = require("express");
+import express from "express";
+import runsRoute from "./routes/api/runs.js";
 const app = express();
 
 // Defining the routes
 app.get("/", (request, response) => {
   response.send("<h3>Express.js server.</h3>");
 });
-
-// Include route files
-const runsRoute = require("./routes/api/runs");
 
 // Use route files
 app.use("/runs", runsRoute);
